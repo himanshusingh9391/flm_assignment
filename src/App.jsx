@@ -84,7 +84,7 @@ function App() {
           <option>Tech</option>
           <option>IT Services</option>
           <option>Automobile</option>
-          <option>Conglomerate</option>
+          {/* <option></option> */}
           <option>E-commerce</option>
         </select>
 
