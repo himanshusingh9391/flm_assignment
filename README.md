@@ -1,16 +1,22 @@
-# React + Vite
+## Company Directory - React.js Project
+## Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a Company Directory Application built with React.js.
+-> It displays a list of companies in a responsive table layout with filtering functionality.
+-> Users can search and filter companies by attributes such as name, location, and industry.
 
-Currently, two official plugins are available:
+## Features
+->  Company List Display: Companies are shown in a table with styled headers and rows.
+->  Filtering: Filter/search companies by name, location, or industry.
+->  Responsive Design: Works well on desktop and mobile screens.
+->  Error & Loading States: Handles loading and error messages gracefully.
+->  State Management: Implemented using React Hooks (useState, useEffect).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to Run the Project
 
-## React Compiler
+Install dependencies:
+npm install
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Start the development server:
+npm run dev
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
