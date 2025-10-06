@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Google", "location": "USA", "industry": "Tech" },
+  { "id": 2, "name": "Infosys", "location": "India", "industry": "IT Services" },
+  { "id": 3, "name": "Tesla", "location": "USA", "industry": "Automobile" },
+  { "id": 4, "name": "Amazon", "location": "USA", "industry": "E-commerce" },
+  { "id": 5, "name": "TCS", "location": "India", "industry": "IT Services" },
+  { "id": 6, "name": "Mphasis", "location": "India", "industry": "IT Services" },
+  { "id": 7, "name": "Mahindra", "location": "India", "industry": "Automobile" }
+]
+
+
